@@ -21,6 +21,7 @@ nav {
     background-color: rgba(18, 18, 18, 0.85);
     position: fixed;
     width: 100%;
+    z-index: 1;
 }
 nav > div {
     padding: 15px;
